@@ -9,7 +9,7 @@
     "publish:components": "lerna publish",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "start-storybook -p 9001 -c .storybook",
-    "pub": "lerna publish --skip-git --from-git --yes"
+    "pub": "lerna publish --bump major --yes"
   },
   "author": "Audrius Navickas",
   "devDependencies": {
