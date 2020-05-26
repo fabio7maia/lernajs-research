@@ -1,7 +1,7 @@
 {
   "name": "@fabio7maia/button-group",
   "description": "Button Group component",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "license": "MIT",
   "author": "Audrius Navickas",
   "main": "dist/index.js",
