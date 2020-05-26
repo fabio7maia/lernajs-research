@@ -34,6 +34,5 @@
     "react": "16.8.2",
     "react-dom": "16.8.2"
   },
-  "repository": "git://github.com/fabio7maia/lernajs-research.git",
-  "private": true
+  "repository": "git://github.com/fabio7maia/lernajs-research.git"
 }

@@ -18,6 +18,5 @@
     "react-dom": "^16.8.2"
   },
   "gitHead": "bdb0a7253d1403f1b1e015a50a67f134e94b4acf",
-  "repository": "git://github.com/fabio7maia/lernajs-research.git",
-  "private": true
+  "repository": "git://github.com/fabio7maia/lernajs-research.git"
 }

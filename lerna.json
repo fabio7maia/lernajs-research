@@ -9,6 +9,5 @@
       "ignoreChanges": ["*.md", "tests/*", "ignored-files"],
       "verifyAccess": false
     }
-  },
-  "private": true
+  }
 }
