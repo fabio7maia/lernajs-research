@@ -1,7 +1,7 @@
 {
   "name": "@fabio7maia/button",
   "description": "Button component",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "license": "MIT",
   "author": "Audrius Navickas",
   "main": "dist/index.js",
