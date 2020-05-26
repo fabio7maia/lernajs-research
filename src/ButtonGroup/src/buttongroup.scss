@@ -1,10 +1,11 @@
 .button-group {
-    .button {
-        border-radius: 0;
-        border-right: 1px solid #fff;
+  .button {
+    border-radius: 0;
+    border-right: 1px solid #fff;
 
-        &:last-child {
-            border-right: 0;
-        }
+    &:last-child {
+      border-right: 0;
     }
+  }
+  width: 100%;
 }
