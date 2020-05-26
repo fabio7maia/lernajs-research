@@ -1,7 +1,7 @@
 {
   "name": "@fabio7maia/button-group",
   "description": "Button Group component",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "license": "MIT",
   "author": "Audrius Navickas",
   "main": "dist/index.js",
@@ -18,5 +18,6 @@
     "react-dom": "^16.8.2"
   },
   "gitHead": "bdb0a7253d1403f1b1e015a50a67f134e94b4acf",
-  "repository": "git://github.com/fabio7maia/lernajs-research.git"
+  "repository": "git://github.com/fabio7maia/lernajs-research.git",
+  "private": true
 }

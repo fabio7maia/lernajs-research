@@ -9,7 +9,7 @@
     "publish:components": "lerna publish",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "start-storybook -p 9001 -c .storybook",
-    "pub": "lerna publish --skip-git --skip-npm --yes && lerna exec -- npm publish"
+    "pub": "lerna publish --skip-npm --canary --yes && lerna exec -- npm publish"
   },
   "author": "Audrius Navickas",
   "devDependencies": {
@@ -34,5 +34,6 @@
     "react": "16.8.2",
     "react-dom": "16.8.2"
   },
-  "repository": "git://github.com/fabio7maia/lernajs-research.git"
+  "repository": "git://github.com/fabio7maia/lernajs-research.git",
+  "private": true
 }
