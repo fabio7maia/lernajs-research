@@ -6,7 +6,8 @@
   "registry": "https://registry.npmjs.org/",
   "command": {
     "publish": {
-      "ignoreChanges": ["*.md", "tests/*", "ignored-files"]
+      "ignoreChanges": ["*.md", "tests/*", "ignored-files"],
+      "verifyAccess": false
     }
   },
   "private": true
